@@ -1,0 +1,5 @@
+---
+## Install Prometheus Operator CRDs
+##
+crds:
+  enabled: true
